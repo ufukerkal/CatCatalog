@@ -2,7 +2,6 @@
 //  CatBreedFetcher.swift
 //  CatCatalog
 //
-//  Created by Hakkı Yiğit Yener on 14.04.2022.
 //
 
 import Foundation

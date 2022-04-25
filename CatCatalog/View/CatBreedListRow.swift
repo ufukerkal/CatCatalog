@@ -2,7 +2,6 @@
 //  CatBreedListRow.swift
 //  CatCatalog
 //
-//  Created by Hakkı Yiğit Yener on 17.04.2022.
 //
 
 import SwiftUI

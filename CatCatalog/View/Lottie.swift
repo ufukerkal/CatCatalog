@@ -2,7 +2,6 @@
 //  Lottie.swift
 //  CatCatalog
 //
-//  Created by Hakkı Yiğit Yener on 20.04.2022.
 //
 
 

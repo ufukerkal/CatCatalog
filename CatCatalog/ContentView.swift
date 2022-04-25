@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  CatCatalog
 //
-//  Created by Hakkı Yiğit Yener on 13.04.2022.
 //
 
 import SwiftUI
