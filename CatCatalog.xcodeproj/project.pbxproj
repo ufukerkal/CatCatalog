@@ -152,14 +152,14 @@
 		AA0533E828079A210005253C /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AA0533EB28079B330005253C /* CatBreedError.swift */,
-				AA0533ED28079B430005253C /* CatBreedLoading.swift */,
 				AA87F3CA280A256F0076CB4F /* CatBreedDetail.swift */,
-				AA87F3C82809CF500076CB4F /* CatBreedListview.swift */,
-				AA87F3D2280B88250076CB4F /* CatBreedListRow.swift */,
-				AA4052D6280F9FF30010117D /* SplashScreen.swift */,
-				AA4052D8280FA1330010117D /* Lottie.swift */,
+				AA0533EB28079B330005253C /* CatBreedError.swift */,
 				AA4052E52812608E0010117D /* CatBreedFavoriteList.swift */,
+				AA87F3D2280B88250076CB4F /* CatBreedListRow.swift */,
+				AA87F3C82809CF500076CB4F /* CatBreedListview.swift */,
+				AA0533ED28079B430005253C /* CatBreedLoading.swift */,
+				AA4052D8280FA1330010117D /* Lottie.swift */,
+				AA4052D6280F9FF30010117D /* SplashScreen.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
